@@ -1,4 +1,4 @@
-<h5 align="left">Hi there 👋<br>🔭 I’m currently working on Solidity and Smart contract auditing<br>🌱 I’m currently learning Pentesting and Debugging<br>👯 I’m looking to collaborate on smart contract development, building blockchain applications and cyber-security consultation.</h5>
+<h5 align="left">Hi there 👋<br>🔭 I’m currently working on Blockchain Development<br>🌱 I’m currently learning Pentesting Web applications and Debugging<br>👯 I’m looking to collaborate on smart contract development, building blockchain applications and cyber-security consultation.</h5>
 
 ###
 
